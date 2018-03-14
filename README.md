@@ -1,2 +1,2 @@
 # LearnOne
-Study
+Study-Documents
